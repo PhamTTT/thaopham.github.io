@@ -1,6 +1,5 @@
-# thaopham.github.io
-
 # Thao Pham
+Researcher
 
 ### Education
 
